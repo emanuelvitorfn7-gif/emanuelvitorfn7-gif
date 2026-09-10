@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vitor Fernandes
 
-🚀 **analysisi and development | Python | HTML | Back-and | 
+🚀 **analysisi and development | Python | PHP | Back-and | 
 🇧🇷 Brazil
 
  🎓 Systems Analysis and Development student  
