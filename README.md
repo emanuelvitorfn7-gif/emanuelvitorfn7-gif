@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vitor Fernandes
 
-🚀 **analysisi and development | Python | PHP | N8N | Back-and | 
+🚀 **analysisi and development | Python | PHP | Back-and | 
 🇧🇷 Brazil
 
  🎓 Systems Analysis and Development student  
@@ -36,7 +36,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+
 
 ### DevOps & Tools
 
