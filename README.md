@@ -10,7 +10,6 @@
 
 ---
 
-📫 Let's connect!.
 
 
 
