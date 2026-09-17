@@ -30,16 +30,25 @@
 ## 🛠️ Tech Stack
 
 
-### Backend
+### Backend & Databases 
+
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 
-
-### DevOps & Tools
+ 
+### Automação & Integrações
 
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+
+<img src="https://img.shields.io/badge/APIs_REST-009688?style=for-the-badge" alt="APIs REST" /> 
+
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" />
+ 
+### DevOps & Tools
+
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> 
 
