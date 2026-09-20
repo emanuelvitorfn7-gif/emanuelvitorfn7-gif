@@ -1,7 +1,6 @@
 # Hi 👋, I'm Vitor Fernandes
 
-🚀 **analysisi and development | Python | PHP | Back-and | 
-🇧🇷 Brazil
+🚀 **analysisi and development | Python | PHP | Back-and |  Brazil
 
  🎓 Systems Analysis and Development student  
 💻 Interested in Software Development, APIs, and Automation  
