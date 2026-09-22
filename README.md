@@ -5,7 +5,7 @@
  🎓 Systems Analysis and Development student  
 💻 Interested in Software Development, APIs, and Automation  
 📊 Exploring the world of Data and Artificial Intelligence  
-🚀 Learning by building — Python and web projects
+
 
 ---
 
