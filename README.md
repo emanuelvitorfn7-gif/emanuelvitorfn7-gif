@@ -22,7 +22,7 @@
 - 🧩 Software architecture & clean code
 - 📚 Continuous learning & professional
  growth
-- 🚀 Building practical projects and new solutions
+
 
 ---
 
