@@ -20,7 +20,6 @@
 - 🔗 APIs & system integrations
 - 🤖 Artificial intelligence
 - 🧩 Software architecture & clean code
-- 📚 Continuous learning & professional
  growth
 
 
