@@ -46,6 +46,8 @@
 <img src="https://img.shields.io/badge/APIs_REST-009688?style=for-the-badge" alt="APIs REST" /> 
 
 <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" />
+
+<img src="https://img.shields.io/badge/CLAUDE_CODE-C7775C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
  
 ### DevOps & Tools
 
